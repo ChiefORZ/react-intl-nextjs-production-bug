@@ -15,6 +15,9 @@
     "defaultMessage": "Home",
     "description": "Nav: Index name"
   },
+  "TbqYJ9": {
+    "defaultMessage": "Time on site: {seconds}"
+  },
   "WIATrC": {
     "defaultMessage": "This page is powered by Next.js",
     "description": "Default document description"

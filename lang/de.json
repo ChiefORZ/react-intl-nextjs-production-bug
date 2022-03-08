@@ -15,6 +15,9 @@
     "defaultMessage": "Start",
     "description": "Nav: Index name"
   },
+  "TbqYJ9": {
+    "defaultMessage": "Zeit auf dieser Seite: {seconds}"
+  },
   "WIATrC": {
     "defaultMessage": "Diese Seite wird mit Next.js betrieben",
     "description": "Default document description"
